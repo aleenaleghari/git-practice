@@ -12,3 +12,6 @@ I found this article interesting because it looks at how AI is changing software
 I found the article's comparison between AI-assisted coding and the transition from assembly language to higher-level programming languages especially interesting. Both changes allow developers to work at a higher level of abstraction and spend less time on lower-level implementation details. However, I also think this makes skills such as problem solving and evaluating code even more important, since developers still need to determine whether AI-generated code actually solves the intended problem.
 
 — **James Huang**
+### Comment from Zainab Aamer
+
+This resonated with me too, especially the comparison to historical shifts like assembly language. Looking at AI as another layer of abstraction rather than something brand-new really changed my perspective. I also agree with your point on evaluating generated code. It shows that skills like problem decomposition and system design matter more than ever, which makes hands-on practice in assignments like this feel even more relevant.
